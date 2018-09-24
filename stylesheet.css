@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(164, 249, 220, 0.714);
+    text-align: center;
+    margin : auto;
+
+}
+
+#divList{
+    width: 90%;
+    margin : auto;
+}
+
+.colorDiv{
+    width: 40%;
+    margin: 0.2rem auto;
+    border: 1px solid black; 
+    padding: 0.6rem;
+    font-size: 2rem;
+}
+
+#startingword{
+    border: 1px solid black;
+    background-color: rgb(223, 145, 201);
+    padding: 0.3rem;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#startingword:active{
+background-color: aqua;
+ }
+
+#anyword{
+border: 1px solid black;
+background-color: rgb(223, 145, 201);
+padding: 0.3rem;
+font-size: 1rem;
+text-align: center;
+}
+
+#input-text{
+width: 50%;
+margin: 2rem;
+height: 2rem;
+padding: 0.3rem;
+font-size: 1rem;
+}
